@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/Documantation-GitHub-23d96c.svg?logo=github)](https://github.com/adamcegielka/playwright-cucumber-bdd-typescript)
 <br>
 
-# Playwright with Typescript - Cucumber - BDD
+# Playwright with Typescript - Cucumber - BDD1
 
 This is my personal project to improve my skills in automated testing using Cucumber and BDD.
 This project was created solely for my learning process and to showcase my testing skills.
